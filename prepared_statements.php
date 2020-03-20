@@ -1,6 +1,6 @@
 <?php
 
-//Prepared statements prevents user query injection
+//Prepared statements prevents user query injection thus increase security
 
 include 'connect.php';
 
